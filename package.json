@@ -1,0 +1,21 @@
+{
+  "name": "Flappy-bird-game",
+  "private": true,
+  "version": "0.0.1",
+  "description": "amazing games",
+  "keywords": [],
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "nodemon": "^1.9.1",
+    "open": "0.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git clone https://github.com/Goye/Flappy-bird-createjs.git"
+  },
+  "author": "Goye",
+  "license": "",
+  "bin": {
+    "start-server": "server.js"
+  }
+}

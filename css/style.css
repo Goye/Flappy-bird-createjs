@@ -1,0 +1,13 @@
+body {
+    margin:0;background-color:#c0c0c0;
+}  
+h1{ 
+    color:#fffff;
+} 
+#content{
+  user-select:none;
+  background-color:#000000;
+  width:520px;
+  height:288px;
+  margin:50px auto;
+}
